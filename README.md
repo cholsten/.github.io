@@ -11,7 +11,7 @@ Here are a few of my recent projects. I'm continuously learning and creating, wi
 ## Projects
 
 - CMS Outpatient Program Statistics- SQL 
-- Letter of Medical Necessity Generator- Python
+- [Letter of Medical Necessity Generator- Python](https://github.com/cholsten/LMN-Generator-with-Python)
 
 
 ## Education
